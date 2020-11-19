@@ -15,11 +15,11 @@ To run:
 
 3. run the command:
 
-###npm install 
+### npm install 
 
 4. run command
     
-###npm start 
+### npm start 
     
     This will start running on https://localhost:3000 (you can check on the browser but the device motion will not work since there is no accelerometer on the laptop)
 
